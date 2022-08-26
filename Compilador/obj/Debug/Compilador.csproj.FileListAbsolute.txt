@@ -1,0 +1,22 @@
+c:\users\alexa\onedrive\documentos\visual studio 2015\Projects\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\alexa\OneDrive\Área de Trabalho\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\alexa\OneDrive\Área de Trabalho\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\alexa\OneDrive\Área de Trabalho\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\Compilador\Compilador\obj\Debug\Compilador.csprojResolveAssemblyReference.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\Compilador\Compilador\obj\Debug\Compilador.FormMain.resources
+C:\Users\alexa\OneDrive\Área de Trabalho\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+C:\Users\alexa\OneDrive\Área de Trabalho\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.Cache
+C:\Users\alexa\OneDrive\Área de Trabalho\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\alexa\OneDrive\Área de Trabalho\Compilador\Compilador\obj\Debug\Compilador.pdb
+E:\zzzzzzz Compiladores\Compilador-At03\Compilador\bin\Debug\Compilador.exe.config
+E:\zzzzzzz Compiladores\Compilador-At03\Compilador\obj\Debug\Compilador.exe
+E:\zzzzzzz Compiladores\Compilador-At03\Compilador\obj\Debug\Compilador.pdb
+E:\zzzzzzz Compiladores\Compilador-At03\Compilador\bin\Debug\Compilador.exe
+E:\zzzzzzz Compiladores\Compilador-At03\Compilador\bin\Debug\Compilador.pdb
+E:\zzzzzzz Compiladores\Compilador-At03\Compilador\obj\Debug\Compilador.csprojResolveAssemblyReference.cache
+E:\zzzzzzz Compiladores\Compilador-At03\Compilador\obj\Debug\Compilador.FormMain.resources
+E:\zzzzzzz Compiladores\Compilador-At03\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+E:\zzzzzzz Compiladores\Compilador-At03\Compilador\obj\Debug\Compilador.csproj.GenerateResource.Cache
+D:\Google Drive\Compiladores\Compilador-At03\Compilador\bin\Debug\Compilador.exe.config
+D:\Google Drive\Compiladores\Compilador-At03\Compilador\obj\Debug\Compilador.exe
+D:\Google Drive\Compiladores\Compilador-At03\Compilador\obj\Debug\Compilador.pdb
