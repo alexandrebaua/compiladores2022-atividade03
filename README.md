@@ -1,4 +1,4 @@
-## Implementação do analisador descendente recursivo
+## Implementação do analizador descendente recursivo
 
 Analizador descendente recursivo desenvolvido na matéria de compiladores
 
