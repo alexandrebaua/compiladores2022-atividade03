@@ -9,12 +9,20 @@ using Compilador.Lexico;
 
 namespace Compilador.Sintatico
 {
+    /// <summary>
+    /// Analisador Sintático Descendente Recursivo
+    /// </summary>
     public static class AnalizadorDescidaRecursiva
     {
         private static TokenClass[] lista_tk = null;
         private static int inicial;
         private static int cont, anterior;
 
+        /// <summary>
+        /// Executa a verificação sintática utilizando a lista de tokens passada.
+        /// </summary>
+        /// <param name="listaTokens">A lista de tokens a serem analisados.</param>
+        /// <param name="resultado">O ListBox para exibir os resultados da verificação sintática.</param>
         public static void Verificar(List<TokenClass> listaTokens, ListBox resultado)
         {
             // Converte e armazena a lista de tokens recebida em um vetor local:
